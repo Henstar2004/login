@@ -1,22 +1,24 @@
 .demo{
   width:400px;
 height: 400px;
-    background-color: rgba(189, 207, 173, 0.836);
+    background-color:lightgreen;
     align-content: center;
     border-radius: 10px;
    border-style:outset;
-   border-color: aqua;
+   border-color: rgb(0, 162, 255);
 
     
 }
 .demo1{
     
    margin-bottom: 20px;
+   
     
 }
 .demo2{
    font-stretch:rgb(44, 201, 122);
    background-color: rgb(19, 223, 212);
+ 
 }
 .demo3{
     margin-left: 110px;
@@ -32,6 +34,14 @@ height: 400px;
     width: 30px;
     height: 30px;
     margin-left:90%;
+    margin-bottom: 10%;
+    
+
+}
+#kenstar{
+
+    background-color: rgb(252, 255, 255);
+}
     margin-bottom: 10%;
     
 
